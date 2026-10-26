@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d5016;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a7c28;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">Hasil Panen Mentimun</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.7)" text-anchor="middle">AB Nutrisi - Pupuk Organik Cair</text>
+  <circle cx="400" cy="180" r="60" fill="rgba(255,255,255,0.2)"/>
+  <text x="400" y="195" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle">🌱</text>
+</svg>
