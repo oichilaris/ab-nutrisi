@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ab-nutrisi.vercel.app/sitemap.xml
